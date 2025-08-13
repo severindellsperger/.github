@@ -75,7 +75,7 @@ Presentations about SDCIO:
 
 ## Join us
 
-Have questions, ideas, bug reports or just want to chat? Come join [our discord server](https://discord.gg/fHCNahWR2T).
+Have questions, ideas, bug reports or just want to chat? Come join [our discord server](https://discord.com/channels/1240272304294985800/1311031796372344894).
 
 [yang]: https://en.wikipedia.org/wiki/YANG
 [gnmi]: https://github.com/openconfig/reference/blob/master/rpc/gnmi/gnmi-specification.md
